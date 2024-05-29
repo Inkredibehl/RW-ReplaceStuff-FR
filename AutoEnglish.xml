@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+	<TD.ReplaceStuff>Replace Stuff</TD.ReplaceStuff>
+	<TD.Replace>Remplacer</TD.Replace>
+	<TD.ReplaceDesc>Remplacer des éléments d'une chose, par exemple remplacer un mur en bois par de la pierre</TD.ReplaceDesc>
+	<TD.ReplacingTag> (Remplacement en cours)</TD.ReplacingTag>
+	<TD.ToggleBlueprintOverRock>Placer des plans sur la roche de montagne</TD.ToggleBlueprintOverRock>
+	<TD.SettingsNoOverwallCoolers>Cacher les super-géniaux refroidisseurs muraux du menu de construction</TD.SettingsNoOverwallCoolers>
+	<TD.SettingsNoNormalCoolers>Cacher le refroidisseur normal et la ventilation du menu de construction</TD.SettingsNoNormalCoolers>
+	<TD.SettingsCornerBuildable>Les carreaux d'angle sont constructibles et minables de l'intérieur</TD.SettingsCornerBuildable>
+	<TD.SettingsCornerBuildableDesc>Cela peut parfois causer des problèmes de cheminement étranges - désactivez-le pour peut-être corriger cela.</TD.SettingsCornerBuildableDesc>
+	<TD.IncapableOfSmoothing>incapable de lisser</TD.IncapableOfSmoothing>
+	<TD.FailedStuffBeingReplaced>éléments en cours de remplacement</TD.FailedStuffBeingReplaced>
+	
+</LanguageData>
